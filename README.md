@@ -8,6 +8,7 @@ I am learning web development and building websites.
 - CSS
 - JavaScript
 - MYSQL
+- Dart
 - WordPress
 - GitHub
 - Flutter
