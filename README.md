@@ -16,7 +16,10 @@ I am learning web development and building websites.
 - UI
 - Ai video editor
 - Write and Design many books for Arabic language
-- Design board games for kids 
+- Design board games for kids
+- ngrok
+- n8n
+- docker
 
 ## Projects
 - School Website: https://thefuturegenerationschool.com/
